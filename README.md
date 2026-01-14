@@ -17,7 +17,7 @@ https://rockpaperscsgame.netlify.app/
 - Responsive design
 
 ## 📸 Preview
-![Game Screenshot](Screenshot.png)
+![Game Screenshot](RPS.png)
 
 ## 👨‍💻 Author
 Jatin Kumar  
